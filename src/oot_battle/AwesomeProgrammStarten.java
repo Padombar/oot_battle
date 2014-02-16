@@ -26,7 +26,7 @@ import oot_battle.ships.ShipThree;
 import oot_battle.ships.ShipTwo;
 
 public class AwesomeProgrammStarten {
-
+// Start
 	private static Battlefield SP1Feld = new Battlefield();
 	private static Battlefield SP2Feld = new Battlefield();
 	private static Human spieler1 = new Human();
